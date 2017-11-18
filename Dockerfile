@@ -13,7 +13,6 @@ RUN apt-get update && apt-get install -my \
   php-intl \
   php-bz2 \
   php-zip \
-  php-xdebug \
   php-mbstring \
   git \
   zip \
