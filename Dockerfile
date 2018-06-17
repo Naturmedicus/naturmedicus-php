@@ -4,6 +4,7 @@ RUN apt-get update && apt-get install -my \
   acl \
   curl \
   wget \
+  php-bcmath \
   php-curl \
   php-fpm \
   php-gd \
